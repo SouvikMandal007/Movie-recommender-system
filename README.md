@@ -4,5 +4,5 @@ A content based movie recommender system using cosine similarity. It makes use o
 To run this project you need to have the following requirements .
 Python 3.x
 Numpy
-Pamdas
+Pandas
 Sci-kit learn
